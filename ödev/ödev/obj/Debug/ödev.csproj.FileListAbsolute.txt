@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\ödev\ödev\bin\Debug\ödev.exe.config
+C:\Users\Hilal\source\repos\ödev\ödev\bin\Debug\ödev.exe
+C:\Users\Hilal\source\repos\ödev\ödev\bin\Debug\ödev.pdb
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.Form1.resources
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.Properties.Resources.resources
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.exe
+C:\Users\Hilal\source\repos\ödev\ödev\obj\Debug\ödev.pdb
